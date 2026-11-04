@@ -1,0 +1,6 @@
+{
+  "name": "嶼森珈琲 YUSEN Specialty Coffee Roasters",
+  "description": "嶼森精品烘焙咖啡館官方網站：提供單品咖啡豆、產區烘焙指南、手作餐點甜點菜單、會員註冊與線上預訂服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
